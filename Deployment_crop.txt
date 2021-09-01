@@ -1,0 +1,6 @@
+Crop Recommendation 
+
+Direct link
+Endpoint
+	
+	https://us-south.ml.cloud.ibm.com/ml/v4/deployments/e6553683-c4ec-406b-a2ab-22bcb58f4cc4/predictions?version=2021-07-05

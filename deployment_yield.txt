@@ -1,0 +1,6 @@
+yield 
+
+Direct link
+Endpoint
+
+	https://us-south.ml.cloud.ibm.com/ml/v4/deployments/dd53c902-613b-44d8-956a-755ec8377700/predictions?version=2021-07-21
